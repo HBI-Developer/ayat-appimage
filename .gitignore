@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+
+!ar/
+!ar/README.md
+
+!en/
+!en/README.md
+
+!README.md
+
+!ayat.png
