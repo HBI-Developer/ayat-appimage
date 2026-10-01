@@ -80,10 +80,8 @@ This AppImage release is **fully self-contained and pre-bundled**, embedding all
 ## 📥 Download & Execution
 
 ### Step 1: Download the AppImage
-Navigate to the **[Releases](../../releases)** page of this repository and download the latest AppImage file:
+Navigate to the **[Releases](https://github.com/HBI-Developer/ayat-appimage/releases)** page of this repository and download the latest AppImage file:
 `Ayat-1.4-x86_64.AppImage`
-
-> 💡 **Note:** Due to its file size, the `AppImage` binary is hosted exclusively under the GitHub Releases section and is not committed directly to the git source tree.
 
 ### Step 2: Make It Executable
 Open your terminal in the directory where the file was downloaded and grant execution permission:
@@ -194,7 +192,3 @@ rm -rf ~/.local/share/ayat-appimage
 
 - **Ayat (آيات):** Is an open project serving the Holy Quran, developed by **King Saud University (KSU)**, Kingdom of Saudi Arabia. All intellectual property, Quranic texts, images, and audio recitations belong to King Saud University.
 - **This Repository:** Is an unofficial community project solely aimed at packaging and distributing Ayat as a portable AppImage for Linux users worldwide.
-
-<p align="center">
-  <sub>Packaged with care for the Linux community and the Holy Quran ❤️</sub>
-</p>
