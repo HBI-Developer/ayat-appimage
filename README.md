@@ -22,8 +22,8 @@
 
 ## 🌐 اختر اللغة / Choose Language
 
-يرجى اختيار لغتك المفضلـة للاطلاع على الدليل الكامل والتعليمات التفصيلية:
-Please select your preferred language to view the complete documentation and setup guide:
+<p align="right">يرجى اختيار لغتك المفضلـة للاطلاع على الدليل الكامل والتعليمات التفصيلية:</p>
+<p align="left">Please select your preferred language to view the complete documentation and setup guide:</p>
 
 | 🇸🇦 اللغة العربية | 🇬🇧 English Language |
 | :---: | :---: |
