@@ -80,7 +80,7 @@
 ## 📥 التحميل والتشغيل
 
 ### الخطوة 1: تحميل الحزمة
-انتقل إلى صفحة **[الإصدارات (Releases)](../../releases)** في المستودع وقم بتحميل أحدث ملف بصيغة AppImage:
+انتقل إلى صفحة **[الإصدارات (Releases)](https://github.com/HBI-Developer/ayat-appimage/releases)** في المستودع وقم بتحميل أحدث ملف بصيغة AppImage:
 `Ayat-1.4-x86_64.AppImage`
 
 
