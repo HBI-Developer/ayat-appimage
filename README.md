@@ -44,7 +44,7 @@ Please select your preferred language to view the complete documentation and set
 
 ---
 
-### ⚡ السريع / Quick Start
+### ⚡ بداية سريعة / Quick Start
 
 1. **تحميل الملف / Download:**
    قم بتحميل `Ayat-1.4-x86_64.AppImage` من صفحة **[الإصدارات (Releases)](https://github.com/HBI-Developer/ayat-appimage/releases)**.
