@@ -47,8 +47,8 @@ Please select your preferred language to view the complete documentation and set
 ### ⚡ السريع / Quick Start
 
 1. **تحميل الملف / Download:**
-   قم بتحميل `Ayat-1.4-x86_64.AppImage` من صفحة **[الإصدارات (Releases)](releases/latest)**.
-   Download `Ayat-1.4-x86_64.AppImage` from the **[Releases](releases/latest)** page.
+   قم بتحميل `Ayat-1.4-x86_64.AppImage` من صفحة **[الإصدارات (Releases)](https://github.com/HBI-Developer/ayat-appimage/releases)**.
+   Download `Ayat-1.4-x86_64.AppImage` from the **[Releases](https://github.com/HBI-Developer/ayat-appimage/releases)** page.
 
 2. **منح الصلاحية / Make Executable:**
    ```bash
