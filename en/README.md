@@ -151,7 +151,7 @@ Categories=Education;Religion;Utility;
 ## 🛠️ Technical Details & Data Storage
 
 - **Execution Engine:** Uses an Adobe AIR runtime engine running inside an isolated Wine sub-prefix, self-contained within the AppImage executable.
-- **Font Handling:** Configured to dynamically load proprietary fonts (such as `Georgia`, `Times`, `Verdana`, and `Arial`) if present on the host Linux environment for superior typography rendering, using suitable fallbacks otherwise.
+- **Font Handling:** Configured to dynamically load proprietary fonts (such as `Georgia`, `Times`, `Verdana`, `Arial`, and `Tahoma`) if present on the host Linux environment for superior typography rendering, using suitable fallbacks otherwise.
 - **Embedded Dataset:** The AppImage comes fully pre-loaded with complete Quran pages, standard Tafseers, and core translations for offline readiness.
 - **User Data & Configuration Directory:**
   Upon first launch, a lightweight runtime prefix is initialized at:
